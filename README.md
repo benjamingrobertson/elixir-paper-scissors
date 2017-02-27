@@ -4,21 +4,14 @@
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+Run `mix escript.build`
 
-  1. Add `roshambo` to your list of dependencies in `mix.exs`:
+From the command line, run `./roshambo` and pass in your pick (rock, paper, scissors).
 
-    ```elixir
-    def deps do
-      [{:roshambo, "~> 0.1.0"}]
-    end
-    ```
+`./roshambo paper`
 
-  2. Ensure `roshambo` is started before your application:
+You can pass in a second parameter, preceded by --, to tell the computer what its move should be.
 
-    ```elixir
-    def application do
-      [applications: [:roshambo]]
-    end
-    ```
+`./roshambo paper --rock`.
 
+![How to play](https://cl.ly/402z1K240F2l)
