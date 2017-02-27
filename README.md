@@ -10,4 +10,4 @@ You can pass in a second parameter, preceded by --, to tell the computer what it
 
 `./roshambo paper --rock`.
 
-![How to play](https://cl.ly/402z1K240F2l)
+![How to play](https://d3dr1ze7164817.cloudfront.net/items/1F0B0Y2E2d1J2w310q3B/Screen%20Recording%202017-02-27%20at%2001.31%20PM.gif?v=45285539)
