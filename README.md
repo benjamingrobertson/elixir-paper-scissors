@@ -1,9 +1,5 @@
 # Roshambo
 
-**TODO: Add description**
-
-## Installation
-
 Run `mix escript.build`
 
 From the command line, run `./roshambo` and pass in your pick (rock, paper, scissors).
